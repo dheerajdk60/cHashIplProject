@@ -1,0 +1,6 @@
+/home/dheeraj/RiderProjects/ipl-project/ipl-project/bin/Debug/ipl_project.exe
+/home/dheeraj/RiderProjects/ipl-project/ipl-project/bin/Debug/ipl_project.pdb
+/home/dheeraj/RiderProjects/ipl-project/ipl-project/obj/Debug/ipl-project.csprojAssemblyReference.cache
+/home/dheeraj/RiderProjects/ipl-project/ipl-project/obj/Debug/ipl-project.csproj.CoreCompileInputs.cache
+/home/dheeraj/RiderProjects/ipl-project/ipl-project/obj/Debug/ipl_project.exe
+/home/dheeraj/RiderProjects/ipl-project/ipl-project/obj/Debug/ipl_project.pdb
